@@ -44,3 +44,15 @@ The author described involvement in machine-learning/data-analysis aspects of IR
 
 ## Limitations
 The synthetic formula is a teaching example, not a scientific soil-microbe relationship. This cannot be used to decide irrigation in a real farm.
+## Application Demo
+
+The following screenshots demonstrate IRRIBIO using synthetic data. These results are illustrative, not validated agricultural predictions.
+
+### Dashboard
+![IRRIBIO dashboard](screenshots/dashboard.png)
+
+### Simulated Moisture Prediction
+![Simulated soil moisture prediction](screenshots/prediction.png)
+
+### Automated Test Results
+![Three automated tests passing](screenshots/test.png)
